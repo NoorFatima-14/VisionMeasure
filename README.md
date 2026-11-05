@@ -1,4 +1,4 @@
-# Measure It (reduced version)
+# Measure It 
 
 Measures my wallet's width and height in mm from one photo. A bank card in the same photo is the scale.
 
