@@ -1,6 +1,2 @@
 __pycache__/
-*.pyc
-.venv/
-.pytest_cache/
-models/weights/
 .DS_Store
